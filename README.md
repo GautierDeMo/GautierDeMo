@@ -11,3 +11,10 @@
 
 ![Les Stats GitHub de Gautier](https://github-readme-stats.vercel.app/api?username=GautierDeMo&show_icons=true&theme=ambient_gradient&card_width=500)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GautierDeMo&layout=compact&theme=ambient_gradient&card_width=500)](https://github.com/GautierDeMo/github-readme-stats)
+
+<a href="https://github.com/GautierDeMo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GautierDeMo&show_icons=true&theme=ambient_gradient&card_width=500" />
+</a>
+<a href="https://github.com/GautierDeMo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GautierDeMo&layout=compact&theme=ambient_gradient&card_width=500" />
+</a>
