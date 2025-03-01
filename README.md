@@ -9,4 +9,5 @@
 - 😄 Pronouns: s/string
 - ⚡ Fun fact: Actually, I'm not a ruby string, but more or less I'm a boolean.
 
-- ![github stats](https://github-readme-stats.vercel.app/api?username=GautierDeMo&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+![Les Stats GitHub de Gautier](https://github-readme-stats.vercel.app/api?username=GautierDeMo&show_icons=true&theme=ambient_gradient&card_width=500)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GautierDeMo&layout=compact&theme=ambient_gradient&card_width=500)](https://github.com/GautierDeMo/github-readme-stats)
