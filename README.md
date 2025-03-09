@@ -30,3 +30,13 @@
     <a text-decoration="none" href="https://www.linkedin.com/in/gautier-de-mauroy/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
     <a text-decoration="none" href="https://troopl.com/gautierdemauroy" target="_blank"><img alt="Troopl" src="https://img.shields.io/badge/Troopl-%23D33847?style=for-the-badge&logo=rocket&logoColor=white"/></a> 
   </p>
+
+<h2> 🛟 Contributions:</h2>
+  <p align="center">
+    <picture>
+      <img
+      alt="github contribution grid snake animation"
+      src="https://github.com/user-attachments/assets/48fc7ed3-a96e-49b8-9f15-c09946232d66"
+      />
+    </picture>
+  </p>
