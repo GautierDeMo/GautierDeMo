@@ -20,8 +20,8 @@
 
 <h2> 📊 Some stats:</h2>
   <p align="center">
-    <a href="https://github.com/GautierDeMo"><img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=GautierDeMo&show_icons=true&include_all_commits=true&theme=ambient_gradient&hide_border=true" /></a>
-    <a href="https://github.com/GautierDeMo"><img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GautierDeMo&layout=compact&theme=ambient_gradient&hide_border=true" /></a>
+    <a href="https://github.com/GautierDeMo"><img height="190" align="center" src="https://github-readme-stats.vercel.app/api?username=GautierDeMo&show_icons=true&include_all_commits=true&theme=ambient_gradient&hide_border=true" /></a>
+    <a href="https://github.com/GautierDeMo"><img height="190" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GautierDeMo&layout=compact&theme=ambient_gradient&hide_border=true" /></a>
   </p>
 
 <h2> 🛜 Where to find me:</h2>
