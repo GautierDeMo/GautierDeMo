@@ -36,7 +36,7 @@
     <picture>
       <img
       alt="github contribution grid snake animation"
-      src="https://github.com/user-attachments/assets/48fc7ed3-a96e-49b8-9f15-c09946232d66"
+      src="https://github.com/user-attachments/assets/fa295843-97ce-49db-a154-6dd707bcd1e9"
       />
     </picture>
   </p>
