@@ -1,0 +1,2 @@
+- name: Create timeline animation
+  uses: Zxilly/animated-timeline@v1.1.0
