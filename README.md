@@ -19,14 +19,10 @@
 </p>
 
 <h2> 📊 Some stats:</h2>
-<p>
-  <a href="https://github.com/GautierDeMo">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=GautierDeMo&show_icons=true&theme=ambient_gradient&card_width=400" />
-  </a>
-  <a href="https://github.com/GautierDeMo">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GautierDeMo&layout=compact&theme=ambient_gradient&card_width=400" />
-  </a>
-</p>
+  <p align="center">
+    <a href="https://github.com/GautierDeMo"><img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=GautierDeMo&show_icons=true&include_all_commits=true&theme=ambient_gradient&hide_border=true" /></a>
+    <a href="https://github.com/GautierDeMo"><img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GautierDeMo&layout=compact&theme=ambient_gradient&hide_border=true" /></a>
+  </p>
 
 <h2> 🛜 Where to find me:</h2>
   <p align="center">
