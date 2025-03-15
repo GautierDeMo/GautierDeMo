@@ -1,30 +1,35 @@
-<h1 align="center">Hello le France 👋</h1>
+<h1 align="center">Hello everybody tout le monde 👋</h1>
 
-- 🔭 I’m currently working on AirBnB Clone
+- 🔭 I’m currently working on Gusto at Le Wagon
 - 🌱 I’m currently learning Ruby/CSS/HTML/SQL/JS/API
 - 👯 I’m looking to collaborate on Rails Projects
-- 🤔 I’m looking for help with Rails documentation
 - 💬 Ask me about food stuff or dogs stuff
 - 😄 Pronouns: s/string
-- ⚡ Fun fact: Actually, I'm not a string, but more or less I'm a boolean.
 
 <h2> 🧑🏼‍💻 Things I code with:</h2>
 
-<p align="center">
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Github" src="https://img.shields.io/badge/Github-%23181717?style=flat-square&logo=github&logoColor=white" />
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-%23F24E1E?style=flat-square&logo=figma&logoColor=white" />
-  <img alt="Ruby" src="https://img.shields.io/badge/Ruby-%23CC342D?style=flat-square&logo=ruby&logoColor=white" />
-  <img alt="Ruby on Rails" src="https://img.shields.io/badge/Ruby_on_Rails-%23D30001?style=flat-square&logo=rubyonrails&logoColor=white&logoSize=auto" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%234169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="Stimulus" src="https://img.shields.io/badge/Stimulus-%2377E8B9?style=flat-square&logo=stimulus&logoColor=white" />
-  <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="CSS" src="https://img.shields.io/badge/CSS-%23663399?style=flat-square&logo=css&logoColor=white" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%237952B3?style=flat-square&logo=bootstrap&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-</p>
+<div style="display: inline_block"><br>
+  <a href="https://www.ruby-lang.org/fr/"><img align="center" alt="Ruby" height="40" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Ruby.svg"></a>  
+  <a href="https://rubyonrails.org/"><img align="center" alt="Rails" height="40" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Rails.svg"></a>
+  <a href="https://developer.mozilla.org/fr/docs/Web/HTML"><img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
+  <a href="https://developer.mozilla.org/fr/docs/Web/CSS"><img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
+  <a href="https://getbootstrap.com/"><img align="center" alt="Bootstrap" height="40" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg"></a>
+  <a href="http://developer.mozilla.org/fr/docs/Web/JavaScript"><img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
+  <a href="https://www.postman.com/"><img align="center" alt="Postman" height="40" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg"></a>
+  <a href="https://code.visualstudio.com/"><img align="center" alt="Postman" height="40" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg"></a>
+</div>
+
+<div style="display: inline_block"><br>
+  <a href="https://www.postgresql.org/"><img align="center" alt="PostgreSQL" height="40" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg"></a>
+  <a href="https://www.sqlite.org/"><img align="center" alt="SQLite" height="40" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/SQLite.svg"></a>
+</div>
+
+<div style="display: inline_block"><br>
+  <a href="https://git-scm.com/"><img align="center" alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"></a>
+  <a href="https://github.com/"><img align="center" alt="GitHub" height="40" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg"></a>
+  <a href="https://www.figma.com/fr-fr/"><img align="center" alt="Figma" height="40" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg"></a>
+  <a href="https://www.heroku.com/"><img align="center" alt="Heroku" height="40" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Heroku.svg"></a>
+</div>
 
 <h2> 📊 Some stats:</h2>
   <p align="center">
