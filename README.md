@@ -1,6 +1,6 @@
 <h1 align="center">Hello everybody tout le monde 👋</h1>
 
-- 🔭 I’m currently working on Gusto at Le Wagon
+- 🔭 I’m currently sleeping after 9 weekds of Bootcamp at Le Wagon Paris 😴
 - 🌱 I’m currently learning Ruby/CSS/HTML/SQL/JS/API
 - 👯 I’m looking to collaborate on Rails Projects
 - 💬 Ask me about food stuff or dogs stuff
