@@ -1,8 +1,8 @@
 <h1 align="center">Hello everybody 👋</h1>
 
 - 🔭 I’m currently looking for an internship to become a fullstack web devloper 😴
-- 🌱 I’m currently learning Ruby/CSS/HTML/SQL/JS/API
-- 👯 Currently working on a project with docker
+- 🌱 I’m currently learning how to properly use Docker
+- 👯 Currently working on a project with Docker
 - 💬 Ask me about food stuff or dogs stuff
 - 😄 Pronouns: s/string
 
