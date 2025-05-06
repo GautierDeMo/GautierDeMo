@@ -1,8 +1,8 @@
-<h1 align="center">Hello everybody tout le monde 👋</h1>
+<h1 align="center">Hello everybody 👋</h1>
 
-- 🔭 I’m currently sleeping after 9 weekds of Bootcamp at Le Wagon Paris 😴
+- 🔭 I’m currently looking for an internship to become a fullstack web devloper 😴
 - 🌱 I’m currently learning Ruby/CSS/HTML/SQL/JS/API
-- 👯 I’m looking to collaborate on Rails Projects
+- 👯 Currently working on a project with docker
 - 💬 Ask me about food stuff or dogs stuff
 - 😄 Pronouns: s/string
 
